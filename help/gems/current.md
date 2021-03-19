@@ -1,6 +1,8 @@
 ---
 title: Upcoming GEM Sessions
 description: This is the article overview.
+feature: Experience Manager
+role: Leader
 ---
 
 # Title
