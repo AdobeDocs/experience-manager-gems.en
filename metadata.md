@@ -1,11 +1,5 @@
 ---
 cloud: experience-cloud
-solution-title: Adobe Experience Manager as a Cloud Service
-solution-hub-url: https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html
-getting-started-title: Getting Started
-getting-started-url: https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/home.html
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-gems.en
 index: yes
