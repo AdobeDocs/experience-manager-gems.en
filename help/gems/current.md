@@ -1,6 +1,7 @@
 ---
 title: Upcoming GEM Sessions
 description: This is the article overview.
+role: Leader
 ---
 
 # Title
