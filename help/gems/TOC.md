@@ -1,11 +1,8 @@
 ---
-cloud: experience-cloud
-product: adobe
-archtype: end-user
-user-guide: null
+user-guide-title: Experience Manager Gems
 ---
 
-# Table of Contents {#table-of-contents}
+# Experience Manager Gems {#using}
 
 + [AEM 6 Oak: MongoMK and Queries](aem-oak-mongomk-and-queries.md)
 + [Search forms made easy with the AEM querybuilder](aem-search-forms-using-querybuilder.md)
