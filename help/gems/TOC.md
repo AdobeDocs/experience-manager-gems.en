@@ -1,9 +1,12 @@
 ---
-user-guide-title: Experience Manager Gems
-user-guide-description: View Experience Manager Gems content
+solution: Experience Manager
+type: Event
+user-guide-title: Adobe Experience Manager GEMS
+user-guide-description: Gems on Adobe Experience Manager is a series of technical deep dives delivered by Adobe experts.
+feature-set: Experience Manager
 ---
 
-# Experience Manager Gems {#using}
+# Experience Manager GEMS {#using}
 
 + [AEM 6 Oak: MongoMK and Queries](aem-oak-mongomk-and-queries.md)
 + [Search forms made easy with the AEM querybuilder](aem-search-forms-using-querybuilder.md)
