@@ -2,7 +2,6 @@
 title: AEM Upgrade to major version - Backwards compatibility
 description: The first one is dedicated to Backwards Compatibility. We'll present the business reasons for enforcing backwards compatibility, we'll go through the main work items, touch the main pain points and answer questions. 
 uuid: ac992f82-f6bc-4e85-909a-6b7583105ea8
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 240f476f-f496-453f-a35e-6efe1e32e29d
 internal: true
 targetaudience: target-audience advanced

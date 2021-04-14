@@ -2,7 +2,6 @@
 title: Best Practices for Test Automation with Selenium
 description: How many times have you heard that UI tests (or end-to-end tests) are unreliable and hard to maintain?  And yet, UI can be stable and reliable. There are principles to follow.  In this session I will go over the 10 top best practices, based on my recent experience with Selenium. The example framework and code snippets are based on Selenium WebDriver in Java, but principles apply to other implementations including WebDriverIO(Javascript).
 uuid: 426b4390-6123-46f8-a364-e208d7e5b159
-products: SG_EXPERIENCEMANAGER
 discoiquuid: cf4ad65e-c582-4a90-bbd5-034f75647358
 internal: true
 targetaudience: target-audience advanced

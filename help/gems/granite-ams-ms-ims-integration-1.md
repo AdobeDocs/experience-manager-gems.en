@@ -2,7 +2,6 @@
 title: "AEM Managed Services IMS Integration: Architecture and Operation"
 description: 1) Introduction 2) Org Onboarding in ServiceNow and AAUI 3) Admin Console Org Claim and Configuration 4) User Sync Tool Introduction and Operation 5) ServiceNow Configuration/Workflow 6) AEM Configuration and Operation  7) AMS Automation  8) Project Europa and IMS Authentication  
 uuid: 9e20db8f-0769-464d-bea9-0da5e91c0c60
-products: SG_EXPERIENCEMANAGER
 discoiquuid: f358f33f-4a7b-4261-b05b-77802793f3e9
 internal: true
 targetaudience: target-audience advanced

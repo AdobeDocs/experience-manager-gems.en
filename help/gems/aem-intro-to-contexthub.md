@@ -2,7 +2,6 @@
 title: Introduction to ContextHub in AEM 6.4
 description: Presentation covers high level ContextHub architecture with some deeper dives on available generic stores, persistence layers, eventing and debugging. Learn about similarities and feature parity between ClientContext and ContextHub to ease migration to ContextHub.
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
-products: SG_EXPERIENCEMANAGER
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
 ---

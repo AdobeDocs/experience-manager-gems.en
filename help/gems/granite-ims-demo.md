@@ -2,7 +2,6 @@
 title: AEM Managed Services IMS Integration - End to End Demo
 description: 1) User Sync Tool Introduction and Operation  2) Demo of User Sync to IMS  3) Demo of IMS Login to AEM Instances Directly 4) Demo of IMS Login to AEM Instances via MAC UI/Cloud Manager (tentative) 5) Demo of IMS login to AEM from Europa panel in PS/AI/ID
 uuid: 239a50ca-b096-40bb-b171-d6826fca62be
-products: SG_EXPERIENCEMANAGER
 topic-tags: managed-services
 discoiquuid: 3cfa898c-42db-4d17-8e11-f3258dad1b6c
 internal: true

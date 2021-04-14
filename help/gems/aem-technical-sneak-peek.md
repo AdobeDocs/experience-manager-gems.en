@@ -2,7 +2,6 @@
 title: Technical Sneak Peek
 description: Join Gabriel Walt and Justin Edelson for a peek into what we’ve been working on for the next generation of Adobe Experience Manager in a technical talk. 
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
-products: SG_EXPERIENCEMANAGER/6.2
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
 ---

@@ -2,7 +2,6 @@
 title: hybris/AEM 5.6 eCommerce framework integration
 description: In this session we will be presenting our integration solution for hybris into CQ. We'll start with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we'll go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 ---

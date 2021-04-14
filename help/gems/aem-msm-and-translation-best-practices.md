@@ -2,8 +2,6 @@
 title: "MSM and Translation: Best Practices "
 description: This webinar will examine the intersection of MSM and translation for multilingual websites. We’ll cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases. 
 uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
-products: SG_EXPERIENCEMANAGER
-products: SG_EXPERIENCEMANAGER/SITES/MSM
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
 ---

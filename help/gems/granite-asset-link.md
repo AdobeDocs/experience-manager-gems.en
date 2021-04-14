@@ -2,7 +2,6 @@
 title: Configuring AEM deployments for Adobe Asset Link (fka Project Europa)
 description: This is a follow up session of "AEM Managed Services IMS Integration - End to End Demo".  In this session we will focus on configuring Adobe Experience Manager deployments to support connections from Photoshop, Illustrator, and InDesign CC applications with Adobe Asset Link panel installed. We will cover installation of an additional package (where required), configuration of Granite IMS login modules, configuring user/group setup, and additional considerations. After the session you should be able to explain what is required to configure AEM for Adobe Asset Link and provide advice to our customers and partners if needed.
 uuid: f9c378fe-62f6-46be-91d7-701a2f239b7d
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 09b617e8-66e3-4ba6-9c27-0a3d3cce1358
 internal: true
 targetaudience: target-audience advanced

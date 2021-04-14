@@ -2,7 +2,6 @@
 title: Mapping AEM - automatic analysis of AEM and its usage - a possible help in your daily decision-making
 description: Mapping (out) AEM (or MAEM) is an automated Adobe Experience Manager comprehension system. It allows to extract and analyse AEM internal information on a set of features and their usage on customer instances. Having gathered MAEM data from a sample of AMS customer AEM instances as well as from pure baseline/vanilla instances across various AEM versions it helps to compare the customisations made by AMS customers against OOTB AEM instances and reason about how various features are used by those customers.
 uuid: d689e851-c201-4382-af99-b8a26e87fa41
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 9eeedf15-c8b7-4bee-b17c-2a819094a672
 internal: true
 targetaudience: target-audience advanced

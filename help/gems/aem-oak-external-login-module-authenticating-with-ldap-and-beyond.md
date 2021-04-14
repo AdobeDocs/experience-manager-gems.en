@@ -2,8 +2,6 @@
 title: Oak's External Login Module - Authenticating with LDAP and Beyond
 description: In this session we look at the new external login module of Apache Jackrabbit Oak. We examine the details and interplay of the login module, the synchronization handler and the identity provider. Using the LDAP identity provider as an example we demonstrate the required configuration so LDAP users can be automatically imported into AEM for authentication purposes. Additionally we show tips and tricks on how to debug the system if things don't work right away.
 uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
-products: SG_EXPERIENCEMANAGER
-products: SG_EXPERIENCEMANAGER/CORE_PLATFORM/OAK
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 ---

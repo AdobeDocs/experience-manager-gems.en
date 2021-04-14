@@ -2,8 +2,6 @@
 title: Oak Lucene Indexes
 description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
-products: SG_EXPERIENCEMANAGER
-products: SG_EXPERIENCEMANAGER/CORE_PLATFORM/OAK
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 ---

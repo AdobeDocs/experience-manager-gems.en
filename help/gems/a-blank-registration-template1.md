@@ -3,8 +3,6 @@ title: A Blank registration template
 description: This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4. 
 page-status-flag: never-activated
 uuid: fac599bd-cdc1-42a7-a373-f21b5486ca6c
-products: SG_EXPERIENCEMANAGER
-products: SG_EXPERIENCEMANAGER/6.4
 discoiquuid: b0453f31-3eb6-40a4-90fe-17bccca26acd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 ---

@@ -2,8 +2,6 @@
 title: Developing OSGi Bundles and Services for AEM
 description: "Learn in this session how easy it is to develop OSGi bundles and services for AEM. This session starts with a brief introduction to the basic concepts of OSGi: bundles and services. Subsequently, it demonstrates the easy and straightforward usage of well established annotations to develop bundles and services. In addition, tips and tricks as well as best practice making AEM development easier and avoiding downsides and pitfalls are included."
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
-products: SG_EXPERIENCEMANAGER
-products: SG_AEMFORMS_OSGI
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
 ---

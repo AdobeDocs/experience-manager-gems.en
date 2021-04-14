@@ -3,7 +3,6 @@ title: AEM 6.3 Ready for the World - Translation Integration & Best Practices
 description: In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects.
 page-status-flag: de-activated
 uuid: d64e538a-fda2-4190-9fa7-50cfea64a04f
-products: SG_EXPERIENCEMANAGER
 discoiquuid: b49b1fcd-cbb2-4199-8767-be5297f63237
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 ---

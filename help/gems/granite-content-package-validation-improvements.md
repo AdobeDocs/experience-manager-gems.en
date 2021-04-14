@@ -2,7 +2,6 @@
 title: Content Package Validation Improvements
 description: Based on the customer issues in deploying maintenance updates some improvements have been made in Granite Package Maven Plugin & AEM Package Manager.
 uuid: ef69d957-6898-42cf-8c2f-fd676a13a340
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 12574219-5f31-4cb3-bdff-e8d64636841e
 internal: true
 targetaudience: target-audience advanced

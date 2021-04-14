@@ -3,7 +3,6 @@ title: Experiments in AEM Author Scalability
 description: Scaling AEM Authors is primarily about scaling Oak, but what is the best way to do that? In this session we will cover a number of experiments that have been done to explore how to scale AEM and Oak. We will cover what was learned from these experiments, how what we learned affects how we think of content storage moving forward, projects and tools that have come from these experiments, and also some surprising and non-intuitive takeaways.
 page-status-flag: de-activated
 uuid: e7ab1084-69fe-4b1f-8c65-c67ff3a896e3
-products: SG_EXPERIENCEMANAGER
 topic-tags: author
 discoiquuid: 7c36a8d4-b2c9-4d3d-8c1b-187d4aa58b2f
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader

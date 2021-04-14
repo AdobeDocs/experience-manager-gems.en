@@ -2,7 +2,6 @@
 title: Metrics reporter in AEM
 description: AEM 6.4 introduced a component that collects metrics and writes them to the local filesystem. This data can later be used to analyze the runtime behavior of an AEM instance. In this session you will learn what metrics are available, how to process and visualize them and make sense of the provided data.
 uuid: 94340287-8aff-438a-9b28-551d7965d778
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 02e0a7fa-ca1b-4d10-8159-314a6f595e52
 internal: true
 targetaudience: target-audience advanced

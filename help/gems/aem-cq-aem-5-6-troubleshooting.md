@@ -2,7 +2,6 @@
 title: CQ/AEM 5.6 Troubleshooting
 description: In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
 uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
-products: SG_EXPERIENCEMANAGER
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 ---

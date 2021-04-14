@@ -2,8 +2,6 @@
 title: AEM Indexing and JCR Query
 description: AEM indexing and query best practices. How to troubleshoot query problems in AEM, and how to configure and manage indexes.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
-products: SG_EXPERIENCEMANAGER
-products: SG_EXPERIENCEMANAGER/CORE_PLATFORM
 topic-tags: troubleshoot
 topic-tags: best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6

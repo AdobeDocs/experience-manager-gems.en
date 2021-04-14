@@ -2,7 +2,6 @@
 title: Adobe I/O Events - Analytics Triggers
 description: Combine the power of event-driven architecture and real-time customer behavior pattern recognition — this session will discuss how you can harness the power of Analytics Triggers through Adobe I/O Events to react to customer behavior and to re-target in near real-time.
 uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
-products: SG_EXPERIENCEMANAGER
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
