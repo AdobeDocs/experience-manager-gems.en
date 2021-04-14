@@ -1,8 +1,6 @@
 ---
 title: "Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"
-seo-title: "Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"
 description: Learn how Machine Learning increases productivity and unlocks new use cases in AEM 6.4
-seo-description: Learn how Machine Learning increases productivity and unlocks new use cases in AEM 6.4
 page-status-flag: never-activated
 uuid: 121919b9-a648-4554-8a97-3b56f7a6f845
 products: SG_EXPERIENCEMANAGER
@@ -11,9 +9,6 @@ deleted: 2018-07-18T05 29 15.528-0400
 deletedby: gbrodnik
 discoiquuid: 3ed0fb0f-2a48-4768-8f6f-a2ae523efafb
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-index: y
-internal: n
-snippet: y
 ---
 
 # Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}

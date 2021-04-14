@@ -1,15 +1,10 @@
 ---
 title: User Interface Customization for AEM 6
-seo-title: User Interface Customization for AEM 6
 description: The session will walk the audience through ways how to extend AEM 6.0’s user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property. In combination with the new client side foundation vocabulary It opens up new ways of customization of the product. Furthermore AEM provides a broad range of extension points in the new page authoring, to hook in custom implementations in the layered architecture.
-seo-description: The session will walk the audience through ways how to extend AEM 6.0’s user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property. In combination with the new client side foundation vocabulary It opens up new ways of customization of the product. Furthermore AEM provides a broad range of extension points in the new page authoring, to hook in custom implementations in the layered architecture.
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 products: SG_EXPERIENCEMANAGER
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # User Interface Customization for AEM 6{#user-interface-customization-for-aem}

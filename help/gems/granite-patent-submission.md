@@ -1,16 +1,11 @@
 ---
 title: How to improve your patent submission
-seo-title: How to improve your patent submission
 description: Whenever you come up with a good idea, you have the challenge of how to describe it.  You always ask yourself how much you need to put in for a good submission and how detailed it needs to be.  The patent attorneys at the patent team will use this session to present insights on how to write a good invention submission.  They will also provide guidelines as to what information the reviewers at the patent review committee typically look for. 
-seo-description: Whenever you come up with a good idea, you have the challenge of how to describe it.  You always ask yourself how much you need to put in for a good submission and how detailed it needs to be.  The patent attorneys at the patent team will use this session to present insights on how to write a good invention submission.  They will also provide guidelines as to what information the reviewers at the patent review committee typically look for. 
 uuid: 9332f806-18c2-42d0-9c7d-d4f28551dc43
 products: SG_EXPERIENCEMANAGER
 discoiquuid: 32fa84a4-eacc-42ec-9ba9-b65184c5c754
 internal: true
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # How to improve your patent submission{#how-to-improve-your-patent-submission}

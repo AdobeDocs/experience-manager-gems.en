@@ -1,16 +1,11 @@
 ---
 title: "Real-time and lightweight: build event-driven integrations with AEM using I/O Events"
-seo-title: "Real-time and lightweight: build event-driven integrations with AEM using I/O Events"
 description: Tired of building connectors for AEM?  Come learn how you can expose any internal osgi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time. 
-seo-description: Tired of building connectors for AEM?  Come learn how you can expose any internal osgi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time. 
 uuid: 2b08fd3b-b9d7-4300-93c5-b8ab92c53e1f
 products: SG_EXPERIENCEMANAGER
 products: SG_EXPERIENCEMANAGER/6.4
 discoiquuid: 1e3ec844-d7ab-4542-96c2-75d367866021
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-index: y
-internal: n
-snippet: y
 ---
 
 # Real-time and lightweight: build event-driven integrations with AEM using I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-i-o-events}

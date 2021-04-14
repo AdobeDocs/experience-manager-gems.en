@@ -1,16 +1,11 @@
 ---
 title: "Cognifide's Zen Garden: What? Why? When?"
-seo-title: "Cognifide's Zen Garden: What? Why? When?"
 description: During the webinar we will show what is Zen Garden - the Cognifide’s AEM accelerator. We will describe our thinking process for inception some of the core features. Finally, we will demonstrate when Zen Garden is a great fit and when we fallback from using it.
-seo-description: During the webinar we will show what is Zen Garden - the Cognifide’s AEM accelerator. We will describe our thinking process for inception some of the core features. Finally, we will demonstrate when Zen Garden is a great fit and when we fallback from using it.
 uuid: 9b6fcbbd-ccfa-4002-8b0b-af819d9a7bc1
 products: SG_EXPERIENCEMANAGER
 discoiquuid: 64e78afa-c968-4698-9991-f035c0bc8002
 internal: true
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # Cognifide's Zen Garden: What? Why? When?{#cognifide-s-zen-garden-what-why-when}

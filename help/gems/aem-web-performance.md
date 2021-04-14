@@ -1,15 +1,10 @@
 ---
 title: AEM Web Performance
-seo-title: AEM Web Performance
 description: "Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead"
-seo-description: "Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead"
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 products: SG_EXPERIENCEMANAGER
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # AEM Web Performance{#aem-web-performance}
@@ -56,4 +51,6 @@ JavaScript Performance:
 Profiler:  
 [https://visualvm.java.net/](https://visualvm.java.net/)
 
+<!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->

@@ -1,16 +1,11 @@
 ---
 title: Principles of the new AEM Engineering Operations Framework
-seo-title: Principles of the new AEM Engineering Operations Framework
 description: "Agenda:  •          Roadmap/Epic/Story •          Prioritization Model •          Criteria (DoE & DoD) •          Agile Capacity Model •          Continuous Development •          Release Management •          Program Management"
-seo-description: "Agenda:  •          Roadmap/Epic/Story •          Prioritization Model •          Criteria (DoE & DoD) •          Agile Capacity Model •          Continuous Development •          Release Management •          Program Management"
 uuid: a219379a-a08f-4a37-8ff1-aae88f3d0df9
 products: SG_EXPERIENCEMANAGER
 discoiquuid: 46ef7c9b-cea9-453d-bfa3-c28fb10b7453
 internal: true
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # Principles of the new AEM Engineering Operations Framework{#principles-of-the-new-aem-engineering-operations-framework}

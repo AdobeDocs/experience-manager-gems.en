@@ -1,8 +1,6 @@
 ---
 title: AEM Indexing and JCR Query
-seo-title: AEM Indexing and JCR Query
 description: AEM indexing and query best practices. How to troubleshoot query problems in AEM, and how to configure and manage indexes.
-seo-description: AEM indexing and query best practices. How to troubleshoot query problems in AEM, and how to configure and manage indexes.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 products: SG_EXPERIENCEMANAGER
 products: SG_EXPERIENCEMANAGER/CORE_PLATFORM
@@ -10,9 +8,6 @@ topic-tags: troubleshoot
 topic-tags: best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # AEM Indexing and JCR Query{#aem-indexing-and-jcr-query}
@@ -38,7 +33,9 @@ Oak Documentation
 
 * [Oak Query and Indexes](https://jackrabbit.apache.org/oak/docs/query/query.html)
 
+<!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->
 
 >[!MORE_LIKE_THIS]
 >

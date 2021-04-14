@@ -1,16 +1,11 @@
 ---
 title: New Release Model for AEM 2018
-seo-title: New Release Model for AEM 2018
 description: "Session description:      An overview into release trains     The Schedule     The new DoD     Sustenance Release plans and how they align with the release model"
-seo-description: "Session description:      An overview into release trains     The Schedule     The new DoD     Sustenance Release plans and how they align with the release model"
 uuid: 7872e8cc-bfb1-4eb3-8309-081faf9916f4
 products: SG_EXPERIENCEMANAGER
 discoiquuid: dfae129e-6014-4129-843b-906aaeb89442
 internal: true
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # New Release Model for AEM 2018{#new-release-model-for-aem}

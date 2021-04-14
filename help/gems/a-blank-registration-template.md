@@ -1,17 +1,12 @@
 ---
 title: A Blank registration template
-seo-title: AEM Query and Index Troubleshooting
 description: This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4. 
-seo-description: This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4. 
 page-status-flag: never-activated
 uuid: fc96dcd9-03a1-43a6-9c2f-9dfdefd942c3
 products: SG_EXPERIENCEMANAGER
 products: SG_EXPERIENCEMANAGER/6.4
 discoiquuid: 226417d6-664a-4c9e-b1da-f1fa9423da2c
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-index: y
-internal: n
-snippet: y
 ---
 
 # A Blank registration template{#a-blank-registration-template}

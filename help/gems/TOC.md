@@ -1,5 +1,6 @@
 ---
 user-guide-title: Experience Manager Gems
+user-guide-description: View Experience Manager Gems content
 ---
 
 # Experience Manager Gems {#using}

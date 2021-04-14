@@ -1,16 +1,11 @@
 ---
 title: Dispatcher - New features and best practices
-seo-title: Dispatcher - New features and best practices
 description: This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
-seo-description: This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 products: SG_EXPERIENCEMANAGER
 products: SG_EXPERIENCEMANAGER/DISPATCHER
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # Dispatcher - New features and best practices{#dispatcher-new-features-and-best-practices}
@@ -37,4 +32,6 @@ Presenter Slides
 
 [More Info](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
+<!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->

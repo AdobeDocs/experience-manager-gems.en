@@ -1,16 +1,11 @@
 ---
 title: Solr as an Oak index for AEM
-seo-title: Solr as an Oak index for AEM
 description: AEM full text search capabilities are served by Oak Lucene indexes by default. However AEM can also offload indexing and search to Solr servers / clusters through Oak Solr indexes. In this Gem Session we will dive into some practical real life scenarios where using Solr as an Oak index for AEM makes sense in terms of performance and indexing / search features. 
-seo-description: AEM full text search capabilities are served by Oak Lucene indexes by default. However AEM can also offload indexing and search to Solr servers / clusters through Oak Solr indexes. In this Gem Session we will dive into some practical real life scenarios where using Solr as an Oak index for AEM makes sense in terms of performance and indexing / search features. 
 uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 products: SG_EXPERIENCEMANAGER
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
-index: y
-internal: n
-snippet: y
 ---
 
 # Solr as an Oak index for AEM{#solr-as-an-oak-index-for-aem}
@@ -27,7 +22,9 @@ Date: 07/18/2018
 
 [Get File](assets/aem-gems-solr-oakaem-071818.pdf)
 
+<!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->
 
 >[!MORE_LIKE_THIS]
 >
