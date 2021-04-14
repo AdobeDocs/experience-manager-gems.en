@@ -8,6 +8,7 @@ feature-set: Experience Manager
 
 # Experience Manager GEMS {#using}
 
++ [Current](current.md)
 + [AEM 6 Oak: MongoMK and Queries](aem-oak-mongomk-and-queries.md)
 + [Search forms made easy with the AEM querybuilder](aem-search-forms-using-querybuilder.md)
 + [Deep Dive on implementation details of stores, modules and segments in ContextHub](contexthub-deep-dive.md)
