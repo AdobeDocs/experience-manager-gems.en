@@ -8,9 +8,9 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-### Wednesday, March 20, 2019 | 9:00 AM to 10:00 AM PDT {#wednesday-march-am-to-am-pdt}
+## Wednesday, March 20, 2019 | 9:00 AM to 10:00 AM PDT {#wednesday-march-am-to-am-pdt}
 
-`<style> .secondary { cursor: pointer; font-family: inherit; max-width: 180px; height: 32px; font-size: 15px; color: #707070 /* grey8 (Light); grey7 (Dark); grey; */; line-height: normal; font-weight: bold; padding: 0px 14px 0px 14px; margin: 0px 8px 0px 0px; border: 2px solid rgb(112, 112, 112); border-radius: 16px; background: rgb(255,255,255); } .secondary:hover { background: rgb(112, 112, 112); color: rgb(255,255,255); } </style>` [ `<button class="secondary"> Register Now </button>`](https://www.meetup.com/AEM-Technologist-Group/)
+[Register Now](https://www.meetup.com/AEM-Technologist-Group/)
 
 Please note the exceptional start time of this webinar!
 
@@ -20,5 +20,5 @@ Due to the earlier switch to daylight saving time in the Pacific time zone (PST/
 --&gt; 5pm CET (Central European Time)  
 --&gt; 9.30pm IST (India Standard Time)
 
-**Presented by: **Artur Kudlacz, Developer, Adobe
+**Presented by:** Artur Kudlacz, Developer, Adobe
 

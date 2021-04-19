@@ -8,9 +8,9 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-###
+**Presented by:**
 
-**Presented by: **Artur Kudlacz, Developer, Adobe
+Artur Kudlacz, Developer, Adobe
 
 Presenter Slides, Date: 03/20/2019
 

@@ -33,6 +33,6 @@ Presenter Slides
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [How to deploy Adobe Analytics on a local AEM instance by using the Dynamic Tag Management cloud service](aem-adobe-analytics-dynamic-tag-management.md)

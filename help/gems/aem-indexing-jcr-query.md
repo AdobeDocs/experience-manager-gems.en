@@ -35,7 +35,7 @@ Oak Documentation
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)

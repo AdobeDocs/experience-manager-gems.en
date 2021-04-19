@@ -8,7 +8,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
-### AEM Rich Text Editor (RTE) Deep Dive
+## AEM Rich Text Editor (RTE) Deep Dive
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 

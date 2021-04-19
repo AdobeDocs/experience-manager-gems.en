@@ -25,7 +25,7 @@ Presenter Slides
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Adobe I/O Events - Analytics Triggers](aem-analytics-triggers.md)
 >* [Solr as an Oak index for AEM](solr-as-an-oak-index-for-aem1.md)

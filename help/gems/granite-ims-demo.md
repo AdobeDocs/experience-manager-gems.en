@@ -19,6 +19,6 @@ Presented by:
 * Arun Taneja, Sr. Product Manager, Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [AEM Managed Services IMS Integration - End to End Demo](granite-ims-demo.md)

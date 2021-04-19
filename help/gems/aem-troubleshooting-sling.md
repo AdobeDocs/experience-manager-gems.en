@@ -31,7 +31,7 @@ User Sychronization
 * [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting Sling Content Distribution](aem-troubleshooting-sling.md)

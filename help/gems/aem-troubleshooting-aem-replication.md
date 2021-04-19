@@ -28,11 +28,7 @@ Presenter Slides
 * [AEM 6.0 Replication](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
-```
-
-```
-
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)

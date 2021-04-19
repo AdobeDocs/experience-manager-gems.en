@@ -12,11 +12,14 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 *Delivered 03/20/19*
 
-**Presented by: **Artur Kudlacz, Developer, Adobe
+**Presented by:** Artur Kudlacz, Developer, Adobe
 
 Presenter Slides, Date: 03/20/2019
 
 [Get File](assets/aem-gems-contexthubdeepdive-03202019.pdf)
+
 ContextHub sample package:  
+
 Artur's mentioned ContextHub sample package is available on:  
+
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)

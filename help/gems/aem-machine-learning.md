@@ -29,6 +29,6 @@ Presenter Slides
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](aem-machine-learning.md)
