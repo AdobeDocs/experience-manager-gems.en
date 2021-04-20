@@ -8,7 +8,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM 6.5 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-**Presented by: **
+**Presented by:**
 
 * Ankur Sial, Computer Scientist, Adobe
 * Harpreet Neelu, Program Manager, Adobe
@@ -17,7 +17,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 *Delivered 01/22/2020*
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gems-2020-translations.pdf)
 

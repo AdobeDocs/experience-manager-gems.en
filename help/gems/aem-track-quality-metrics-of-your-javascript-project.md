@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered December 9, 2015*
 
-Presented by,
+**Presented by:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered August 14, 2018*
 
-Presented by:
+**Presented by:**
 
 Olfa Chemli, Senior Developer Quality Engineer, Adobe
 

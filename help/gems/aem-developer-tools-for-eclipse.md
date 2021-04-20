@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered August 20, 2014*
 
-Presented by,
+**Presented by:**
 
 Stefan Egli, Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-dev-tools-cq-gems.pdf)
 

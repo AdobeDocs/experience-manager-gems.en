@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered March 20, 2013*
 
-Presented by,
+**Presented by:**
 
 Paolo Mottadelli, Sr. Technical Marketing Mgr.
 

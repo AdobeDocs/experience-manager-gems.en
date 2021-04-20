@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered January 28, 2015*
 
-Presented by,
+**Presented by:**
 
 * Dominique Pfister, Senior Computer Scientist, Adobe
 * Andrew Khoury, CS Engineer, Adobe

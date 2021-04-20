@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered July 29, 2015*
 
-Presented by,
+**Presented by:**
 
 * Tobias Bocanegra, Principal Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/oak-ldap-cqgems.pdf)
 <!--

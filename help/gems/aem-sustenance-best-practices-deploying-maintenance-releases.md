@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered June 28,2017*
 
-Presented by,
+**Presented by:**
 
 * Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

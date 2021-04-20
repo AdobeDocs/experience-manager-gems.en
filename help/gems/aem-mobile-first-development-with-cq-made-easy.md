@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered September 18, 2013*
 
-Presented by,
+**Presented by:**
 
 Bruce Lefebvre, Computer Scientist, Adobe
 

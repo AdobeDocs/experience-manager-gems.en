@@ -12,11 +12,11 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 *Delivered 03/06/19*
 
-**Presented by: **
+**Presented by:**
 
 * Cedric Huesler, Director Product Management, Adobe
 * Gabriel Walt, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem65-whatsnewgem-march6.pdf)

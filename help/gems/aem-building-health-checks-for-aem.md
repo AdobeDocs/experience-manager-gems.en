@@ -14,7 +14,7 @@ targetaudience: target-audience advanced
 
 **Ana Vinatoru, Software Engineer, Adobe**
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-health-checks-for-aem.pdf)
 

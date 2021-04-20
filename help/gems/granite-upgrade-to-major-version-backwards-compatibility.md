@@ -13,13 +13,13 @@ targetaudience: target-audience advanced
 
 *Delivered August 22, 2017*
 
-Presented by:
+**Presented by:**
 
 * Jean-Michel Pittet, VP Engineering AEM, Adobe
 * Dominik Suess, Software Engineer, Adobe 
 * Costin Genescu, Engineering Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-aemupgradetomajorversion-backwardscompatibility.pdf)
 

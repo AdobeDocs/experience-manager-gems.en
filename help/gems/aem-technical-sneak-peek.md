@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered April 13, 2016*
 
-Presented by,
+**Presented by:**
 
 * Gabriel Walt, Product Manager, Adobe
 * Justin Edelson, Experience Architect & Evangelist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

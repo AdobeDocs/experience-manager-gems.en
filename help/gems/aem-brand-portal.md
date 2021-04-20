@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered November 8, 2017*
 
-Presented by:
+**Presented by:**
 
 Mike Carley, Product Marketing Manager - AEM Assets, Adobe
 
@@ -20,7 +20,7 @@ Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
 
 Daniel Gordon, Technical Marketing Engineer - AEM, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

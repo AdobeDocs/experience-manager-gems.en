@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered May 7, 2014*
 
-Presented by,
+**Presented by:**
 
 Gilles Knobloch, Engineering Manager, Adobe  
 Damien Antipa, Senior UX Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/user-interface-customization-for-aem6.pdf)
 

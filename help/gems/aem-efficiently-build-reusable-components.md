@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered July 2, 2014*
 
-Presented by,
+**Presented by:**
 
 Gabriel Walt, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/efficiently-build-reusable-components.pdf)
 

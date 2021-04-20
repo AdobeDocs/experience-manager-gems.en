@@ -14,7 +14,7 @@ targetaudience: target-audience advanced
 
 **Robert Munteanu and Carsten Ziegeler**
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

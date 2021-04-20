@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered October 30, 2013*
 
-Presented by,
+**Presented by:**
 
 Keith Brazil, VP of Technology, Translations.com
 

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered October 2, 2013*
 
-Presented by,
+**Presented by:**
 
 Thierry Yge, Senior Support Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gems-cq-troubleshoot-ppt-2.pdf)
 

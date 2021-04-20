@@ -14,7 +14,7 @@ targetaudience: target-audience advanced
 
 **Alexander Klimetschek, Senior Developer, Adobe**
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-querybuilder-2017.pdf)
 

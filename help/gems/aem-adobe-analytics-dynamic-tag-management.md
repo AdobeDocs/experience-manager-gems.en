@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered October 1, 2014*
 
-Presented by,
+**Presented by:**
 
 Sandro Looser, Solution Architect, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/dtm-10-1-2014.pdf)
 

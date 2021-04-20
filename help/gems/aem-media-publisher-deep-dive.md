@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered April 17, 2013*
 
-Presented by,
+**Presented by:**
 
 John Fait
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 

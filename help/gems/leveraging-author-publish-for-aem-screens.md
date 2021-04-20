@@ -8,7 +8,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-**Presented by: **Iulia Grumaz, Computer Scientist, Software Development, Adobe
+**Presented by:**Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 

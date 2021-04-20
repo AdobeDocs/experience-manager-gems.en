@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered November 19, 2014*
 
-Presented by,
+**Presented by:**
 
 * Thomas Mueller, Senior Software Engineer
 * Marcel Reutegger, Senior Software Engineer
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-6-oak-mongomk-and-queries.pdf)
 

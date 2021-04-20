@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered August 29, 2018*
 
-Presented by:
+**Presented by:**
 
 Marcel Reutegger, Senior Software Engineer, Adobe
 

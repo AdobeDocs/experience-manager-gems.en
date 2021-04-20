@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered July 22, 2015*
 
-Presented by,
+**Presented by:**
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-6-1-communities-gems.pdf)
 <!--

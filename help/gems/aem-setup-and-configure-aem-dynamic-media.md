@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered August 17, 2016*
 
-Presented by,
+**Presented by:**
 
 * Cynthia Tillo, Principal Product Manager, Adobe
 * Bob van Manen, Engineering Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aemgems-081716-dynamic-media-configuration.pdf)
 

@@ -8,11 +8,11 @@ targetaudience: target-audience advanced
 
 # MSM and Translation: Best Practices {#msm-and-translation-best-practices}
 
-Presented by,
+**Presented by:**
 
 Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 

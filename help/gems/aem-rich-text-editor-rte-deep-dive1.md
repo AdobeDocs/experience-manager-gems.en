@@ -14,7 +14,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 *Delivered 04/17/19*
 
-**Presented by: **Hanish Bansal, Computer Scientist, Adobe
+**Presented by:**Hanish Bansal, Computer Scientist, Adobe
 
 Presenter Slides, Date: 04/17/2019
 

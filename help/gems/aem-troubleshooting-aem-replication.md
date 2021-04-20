@@ -16,7 +16,7 @@ targetaudience: target-audience new;target-audience ongoing
 
 **Tommaso Teofili, Developer, Adobe**
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-troubleshooting-aem-replication.pdf)
 

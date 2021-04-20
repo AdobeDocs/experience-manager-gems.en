@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered March 28, 2018*
 
-Presented by:
+**Presented by:**
 
 * Kieron McCann, Director of Marketing and Strategy, **Cognifide**
 * Mateusz Chrominski, Head of Product Engineering,** Cognifide**

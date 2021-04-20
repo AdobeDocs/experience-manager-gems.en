@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered March 7, 2018*
 
-Presented by:
+**Presented by:**
 
 * Arun Taneja, Sr. Product Manager, Adobe  
 * Greg Klebus, Group Product Manager, Adobe

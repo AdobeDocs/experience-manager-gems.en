@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered May 16, 2018*
 
-Presented by:
+**Presented by:**
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gem-2018-05-aem-events.pdf)
 

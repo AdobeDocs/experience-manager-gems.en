@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 12, 2013*
 
-Presented by,
+**Presented by:**
 
 Gilles Knobloch, Lead Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/2013-06-12-launches-cqgems.pdf)
 

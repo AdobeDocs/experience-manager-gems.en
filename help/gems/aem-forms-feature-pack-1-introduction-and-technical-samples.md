@@ -12,13 +12,13 @@ targetaudience: target-audience advanced
 
 *Delivered February 4, 2015*
 
-Presented by,
+**Presented by:**
 
 * Steve Monroe, Senior Manager Enterprise Solutions, Adobe
 
 * Girish Bedekar, LiveCycle Solution Evangelist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-forms-fp1-2015-0204.pdf)
 <!--

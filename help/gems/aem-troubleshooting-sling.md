@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered August 23, 2017*
 
-Presented by:
+**Presented by:**
 
 Timothee Maret, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-scd.pdf)
 

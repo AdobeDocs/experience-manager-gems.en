@@ -12,13 +12,13 @@ targetaudience: target-audience advanced
 
 *Delivered March 14, 2018*
 
-Presented by:
+**Presented by:**
 
 Gabriel Walt, Product Manager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem64-developerupdate31418.pdf)
 

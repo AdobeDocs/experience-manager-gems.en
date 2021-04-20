@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 27, 2018*
 
-Presented by:
+**Presented by:**
 
 Sarah Xu, Developer Evangelist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 

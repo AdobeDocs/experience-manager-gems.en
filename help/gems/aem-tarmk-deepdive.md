@@ -14,7 +14,7 @@ targetaudience: target-audience advanced
 
 **Michael Duerig, Senior Developer, Adobe**
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-tarmk-deep-dive.pptx)
 

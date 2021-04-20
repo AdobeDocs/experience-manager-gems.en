@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered July 20, 2016*
 
-Presented by,
+**Presented by:**
 
 * Sham Hassan Chikkegowda, CS Engineer, Adobe
 * Timothee Maret, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-072016-saml.pdf)
 

@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered August 2, 2017*
 
-Presented by:
+**Presented by:**
 
 Alexander Klimetschek, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/assuming-the-worst-aklimets-2017-08-02.pdf)
 

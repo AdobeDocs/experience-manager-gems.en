@@ -13,13 +13,13 @@ targetaudience: target-audience advanced
 
 *Delivered October 5, 2016*
 
-Presented by,
+**Presented by:**
 
 * Arnold Espos, Sr. Product Manager, Adobe
 * Josh Ramirez, Head of Product, AEM Assets, Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/assets-webinar-oct5final.pdf)
 

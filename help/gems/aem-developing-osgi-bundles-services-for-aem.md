@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered September 6, 2017*
 
-Presented by:
+**Presented by:**
 
 Carsten Ziegeler, Principal Scientist, Adobe
 
@@ -21,7 +21,7 @@ Karl Pauls, Computer Scientist, Adobe
 Chat Expert:  
 David Bosschaert, Senior Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-osgi-best-practices-090617.pdf)
 

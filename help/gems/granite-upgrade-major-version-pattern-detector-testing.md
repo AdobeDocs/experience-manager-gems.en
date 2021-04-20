@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered August 29, 2017*
 
-Presented by,
+**Presented by:**
 
 * Arek Kita, Software Engineer, Adobe
 * Andrei Dulvac, QE Developer, Adobe

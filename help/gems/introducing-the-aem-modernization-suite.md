@@ -18,6 +18,6 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/modernization-toolsaemgems.pdf)

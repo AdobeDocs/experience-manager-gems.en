@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered May 2, 2018*
 
-Presented by:
+**Presented by:**
 
 Thorsten Raabe, Senior Program Manager, Adobe
 

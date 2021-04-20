@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered January 21, 2015*
 
-Presented by,
+**Presented by:**
 
 * Gabriel Walt, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-technical-sneak-peek.pdf)
 <!--

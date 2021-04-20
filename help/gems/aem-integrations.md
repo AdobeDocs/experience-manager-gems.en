@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered September 27, 2017*
 
-Presented by:
+**Presented by:**
 
 Jan Exner, Mgr. Management Consultant, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/170927-aem-gems-integrations.pdf)
 

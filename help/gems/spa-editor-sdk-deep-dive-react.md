@@ -14,7 +14,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 Presented by: Patrick Fauchere, Engineering Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 

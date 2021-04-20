@@ -17,6 +17,6 @@ targetaudience: target-audience advanced
 
 Thorsten Raabe, Senior Program Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granitegemsaemoperations07212016thorstenraabe.pdf)

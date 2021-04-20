@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered December 3, 2014*
 
-Presented by,
+**Presented by:**
 
 * Akshay Madan, Principal Product Manager Multilingual Product Management & Solutions, Adobe
 

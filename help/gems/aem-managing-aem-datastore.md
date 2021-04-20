@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered October 11, 2017*
 
-Presented by:
+**Presented by:**
 
 Amit Jain, Sr. Computer Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/managing-aem-datastoreoct17.pdf)
 <!--

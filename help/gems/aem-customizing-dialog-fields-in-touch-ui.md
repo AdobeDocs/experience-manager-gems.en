@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered October 7, 2015*
 
-Presented by,
+**Presented by:**
 
 * Christanto Leonardo, Senior Developer, Adobe
 * Christian Meyer, Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

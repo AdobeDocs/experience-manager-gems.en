@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered September 14, 2016*
 
-Presented by,
+**Presented by:**
 
 * Patrick Fauchere, Software Engineer, Adobe
 
@@ -20,7 +20,7 @@ Chat expert,
 
 * Gabriel Walt, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-91416-template-editor.pdf)
 

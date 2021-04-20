@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered March 21, 2018*
 
-Presented by:
+**Presented by:**
 
 Krystian Nowak, Software Engineer, Adobe
 

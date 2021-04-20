@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered October 26, 2016*
 
-Presented by:
+**Presented by:**
 
 * Nitika Mangla, Program Manager, Adobe
 * Gaurav Jain, Quality Engineering Manager, Adobe
@@ -24,6 +24,6 @@ Chat experts:
 * Gaurav Jain, Quality Engineering Manager, Adobe
 * Gurpreet Singh Bhatia, Lead Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-cfpprocess10262016.pdf)

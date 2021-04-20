@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered October 14, 2015*
 
-Presented by,
+**Presented by:**
 
 * Bertrand Delacretaz, Principal Scientist, Adobe
 * Tomek Rekawek Software Developer, Adobe

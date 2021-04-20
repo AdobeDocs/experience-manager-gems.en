@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered February 11, 2015*
 
-Presented by,
+**Presented by:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)  

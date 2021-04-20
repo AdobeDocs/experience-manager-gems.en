@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered March 5, 2014*
 
-Presented by,
+**Presented by:**
 
 Varun Nagpal, Computer Scientist, Adobe
 

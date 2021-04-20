@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered May 8, 2013*
 
-Presented by,
+**Presented by:**
 
 Felix Meschberger, Principal Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/20130508-aem56-architecture.pdf)
 

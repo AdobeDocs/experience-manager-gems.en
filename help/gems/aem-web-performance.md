@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 1, 2016*
 
-Presented by,
+**Presented by:**
 
 * Joel Richard, Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-060116-web-performance.pdf)
 

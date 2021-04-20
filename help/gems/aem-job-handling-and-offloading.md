@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered July 24, 2013*
 
-Presented by,
+**Presented by:**
 
 Carsten Ziegeler, Senior Developer, Adobe
 

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered August 26, 2015*
 
-Presented by,
+**Presented by:**
 
 * Justin Edelson, Evangelist for AEM, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/08262015-commons-and-tools.pptx)
 <!--

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 25, 2014*
 
-Presented by,
+**Presented by:**
 
 Gabriel Walt, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/sightly-component-development.pdf)
 

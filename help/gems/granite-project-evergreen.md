@@ -13,10 +13,10 @@ targetaudience: target-audience advanced
 
 *Delivered August 18, 2016*
 
-Presented by:
+**Presented by:**
 
 Andrei Dulvac, AEM Quality Engineering and Release Management, co-chaired by Don Walling (AEM EM) and Thorsten Raabe (AEM PGM)
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-projectevergreen-81816.pdf)

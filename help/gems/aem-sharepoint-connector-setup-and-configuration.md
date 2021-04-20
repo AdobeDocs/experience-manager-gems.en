@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered January 29, 2014*
 
-Presented by,
+**Presented by:**
 
 Tarun Aggarwal, Lead Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/cq-gems-sharepoint-connector.pdf)
 <!--

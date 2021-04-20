@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered July 16, 2014*
 
-Presented by,
+**Presented by:**
 
 David Catalan, QE Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-6-developer-mode-07-16-14.pdf)
 

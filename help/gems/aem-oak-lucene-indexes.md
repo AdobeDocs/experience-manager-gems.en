@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered January 20, 2016*
 
-Presented by,
+**Presented by:**
 
 * Chetan Mehrotra, Senior Computer Scientist, Adobe
 * Alex Parvulescu, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 

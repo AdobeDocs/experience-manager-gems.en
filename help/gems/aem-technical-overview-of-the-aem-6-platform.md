@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 11, 2014*
 
-Presented by,
+**Presented by:**
 
 Peter Klassen, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem6-platform-whatsnew.pdf)
 

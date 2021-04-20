@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered November 20, 2013*
 
-Presented by,
+**Presented by:**
 
 Ugo Cei, Developer Technical Marketing Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/metadata-management-in-aem-dam.pdf)
 

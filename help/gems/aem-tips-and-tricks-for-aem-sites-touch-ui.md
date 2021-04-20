@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered June 3, 2015*
 
-Presented by,
+**Presented by:**
 
 * Gabriel Walt, Product Manager, Adobe
 

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered March 23, 2016*
 
-Presented by,
+**Presented by:**
 
 * Ian Boston, Senior Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-032316-onmongodb.pdf)
 

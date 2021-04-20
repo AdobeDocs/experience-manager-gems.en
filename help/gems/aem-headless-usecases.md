@@ -12,13 +12,13 @@ targetaudience: target-audience advanced
 
 *Delivered October 18, 2017*
 
-Presented by:
+**Presented by:**
 
 Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 
 Gilles Knobloch, Senior Engineering Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

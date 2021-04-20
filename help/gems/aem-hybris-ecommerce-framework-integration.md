@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered May 13, 2013*
 
-Presented by,
+**Presented by:**
 
 Felix Oghina, Adobe Product Developer
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

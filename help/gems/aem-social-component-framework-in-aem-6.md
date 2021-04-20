@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered August 13, 2014*
 
-Presented by,
+**Presented by:**
 
 Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/scf-gems.pdf)
 

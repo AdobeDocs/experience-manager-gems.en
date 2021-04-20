@@ -12,7 +12,7 @@ targetaudience: target-audience advanced
 
 *Delivered August 30, 2017*
 
-Presented by,
+**Presented by:**
 
 Cynthia Tillo, Principal Product Manager, Adobe
 
@@ -24,7 +24,7 @@ Peter Ciszak, Computer Scientist, Adobe
 
 Kirk Jones, Computer Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/dynamicmedia83017.pdf)
 <!--

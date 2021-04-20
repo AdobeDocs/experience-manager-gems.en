@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered September 22, 2016*
 
-Presented by:
+**Presented by:**
 
 * Chris Trubiani, Senior Computer Scientist, Adobe
 * Dan McWeeney, Senior Solutions Architect, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-httpapi.pdf)

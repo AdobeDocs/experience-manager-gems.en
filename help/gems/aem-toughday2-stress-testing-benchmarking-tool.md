@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered June 21, 2017*
 
-Presented by,
+**Presented by:**
 
 * Catalin Luta, QE Developer, Adobe
 * Andrei Stefan Tuicu, QE Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem-gems-toughday2.pdf)
 <!--

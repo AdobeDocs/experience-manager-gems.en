@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered May 22, 2013*
 
-Presented by,
+**Presented by:**
 
 Bertrand Delacretaz, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 

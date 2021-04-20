@@ -19,6 +19,6 @@ Note: This webinar was delivered within Experience Insider and is kept here for 
 
 * Amol Anand, Principal Consultant, Technical Architect, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/headless-omnichannelwebinar04162019.pdf)

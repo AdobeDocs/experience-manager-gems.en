@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered November 16, 2016*
 
-Presented by,
+**Presented by:**
 
 * Julien Ramboz, UI Developer, Adobe
 * Tobias Reiss, Computer Scientist, Software Development, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/2016-11-16-aem-screens.pdf)
 

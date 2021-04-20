@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered September 9, 2015*
 
-Presented by,
+**Presented by:**
 
 * Martin Buergi, Product Manager, Adobe
 * Markus Haack, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered July 23, 2014*
 
-Presented by,
+**Presented by:**
 
 Antonio Sanso, Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--

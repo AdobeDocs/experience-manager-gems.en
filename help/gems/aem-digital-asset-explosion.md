@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered January 31, 2018*
 
-Presented by:
+**Presented by:**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--

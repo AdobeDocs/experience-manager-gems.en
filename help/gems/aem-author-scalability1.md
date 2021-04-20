@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered February 7, 2018*
 
-Presented by:
+**Presented by:**
 
 Matt Ryan, Sr. Software Engineer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--

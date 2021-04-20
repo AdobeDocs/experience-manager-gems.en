@@ -13,11 +13,11 @@ targetaudience: target-audience advanced
 
 *Delivered April 18, 2018*
 
-Presented by:
+**Presented by:**
 
 Jonas Dahl, Product Manager, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 

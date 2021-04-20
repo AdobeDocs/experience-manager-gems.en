@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered April 4, 2018*
 
-Presented by:
+**Presented by:**
 
 * Tom Li, Senior Legal Counsel, Patents, Adobe
 * Donna Sai, Legal Counsel, Patents, Adobe

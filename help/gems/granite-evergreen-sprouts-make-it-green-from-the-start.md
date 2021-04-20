@@ -13,12 +13,12 @@ targetaudience: target-audience advanced
 
 *Delivered July 25, 2017*
 
-Presented by:
+**Presented by:**
 
 * Andrei Stefan Tuicu, QE Developer, Adobe
 * Mark J. Becker, QE Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-evergreensprouts.pdf)
 

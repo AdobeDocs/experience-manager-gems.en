@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered June 18, 2014*
 
-Presented by,
+**Presented by:**
 
 Jukka Zitting, Senior Developer, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 

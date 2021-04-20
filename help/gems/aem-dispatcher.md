@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered November 22, 2017*
 
-Presented by:
+**Presented by:**
 
 Dominique Pfister, Senior Computer Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/dispatcher-aemgemsnov2017.pdf)
 

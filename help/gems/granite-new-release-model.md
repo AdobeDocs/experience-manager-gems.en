@@ -13,7 +13,7 @@ targetaudience: target-audience advanced
 
 *Delivered April 3, 2018*
 
-Presented by:
+**Presented by:**
 
 * Mike Saldi, Director, Customer Engineering, Adobe
 * Sweta Gandhi, Sr Program Manager, Adobe

@@ -38,11 +38,11 @@ targetaudience: target-audience advanced
           (i.e. a 6.1 HF should not have dependency on 6.0 HF). Fails the build if  
           found violating.
 
-Presented by:
+**Presented by:**
 
 * Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/granite-gems-content-package-validation-improvements05242017.pdf)

@@ -12,11 +12,11 @@ targetaudience: target-audience advanced
 
 *Delivered September 10, 2014*
 
-Presented by,
+**Presented by:**
 
 Anthony Rumsey, Computer Scientist, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

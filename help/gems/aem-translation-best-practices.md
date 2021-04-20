@@ -12,12 +12,12 @@ targetaudience: target-audience advanced
 
 *Delivered October 25, 2017*
 
-Presented by:
+**Presented by:**
 
 Leandro Reis, Globalization Architect, Adobe Core Services   
 Mathias Siegel, Sr Product Manager, AEM Sites, Adobe
 
-Presenter Slides
+**Presenter Slides**
 
 [Get File](assets/immerse-2017-translationpresentation-rev1.pdf)
 
