@@ -8,6 +8,12 @@ targetaudience: target-audience advanced
 
 # Track quality metrics of your Javascript project{#track-quality-metrics-of-your-javascript-project}
 
+Methodology to integrate sonarqube analysis to Javascript projects and thus get access to:
+
+* Basic static code analysis 
+* Unit testing coverage 
+* Integration testing coverage (AEM)
+
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
 *Delivered December 9, 2015*
@@ -20,7 +26,7 @@ targetaudience: target-audience advanced
 
 [Get File](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 
-Code Sample
+**Code Sample**
 
 [Get File](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--

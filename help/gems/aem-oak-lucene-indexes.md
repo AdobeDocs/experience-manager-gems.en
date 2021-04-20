@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Oak Lucene Indexes{#oak-lucene-indexes}
 
+We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
 *Delivered January 20, 2016*
@@ -21,7 +23,7 @@ targetaudience: target-audience advanced
 
 [Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 

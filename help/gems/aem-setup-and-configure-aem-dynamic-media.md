@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Setup and Configure AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 
+AEM Dynamic Media enables customers to scalably and cost effectively deliver engaging rich media experiences to all screens and customer touch points – all from a single master image or video!  In this session we will arm you with all you need to know to successfully implement customers on Dynamic Media including an overview on the use cases, technical architecture, and configuration steps. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
 *Delivered August 17, 2016*

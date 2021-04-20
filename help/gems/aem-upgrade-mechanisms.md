@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM 5.6 upgrade mechanisms {#aem-upgrade-mechanisms}
 
+This session describes the upgrade mechanisms in CQ/AEM, which allow upgrading CQ itself as well as custom applications and content, by just replacing the CQ/AEM jar file with the new one. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
 *Delivered May 22, 2013*

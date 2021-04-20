@@ -8,6 +8,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Real-time and lightweight: build event-driven integrations with AEM using I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-i-o-events}
 
+Tired of building connectors for AEM?  Come learn how you can expose any internal osgi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time. 
+
 ## Wednesday, May 16, 2018 | 8:00 AM to 9:00 AM PDT {#wednesday-may-am-to-am-pdt}
 
 [Register Now](https://www.meetup.com/AEM-Technologist-Group/events/250446414/) 

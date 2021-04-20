@@ -9,6 +9,8 @@ targetaudience: target-audience advanced
 
 # Troubleshooting Sling Content Distribution{#troubleshooting-sling-content-distribution}
 
+Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
 *Delivered August 23, 2017*

@@ -9,6 +9,8 @@ targetaudience: target-audience advanced
 
 # Adobe I/O Events - Analytics Triggers{#adobe-i-o-events-analytics-triggers}
 
+Combine the power of event-driven architecture and real-time customer behavior pattern recognition — this session will discuss how you can harness the power of Analytics Triggers through Adobe I/O Events to react to customer behavior and to re-target in near real-time.
+
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
 *Delivered June 27, 2018*

@@ -8,12 +8,18 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
+Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
+
+* Convert Static Template Pages to Editable Templates
+* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
+* Import and Convert Component Designs as Editable Template Policies
+* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
+
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
 *Delivered 05/08/19*
 
-**Presented by:   
-**
+**Presented by:**
 
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe

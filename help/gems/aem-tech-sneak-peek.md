@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM Tech Sneak Peek{#aem-tech-sneak-peek}
 
+Get a peek into what we’ve been working on for the next generation of Adobe Experience Manager in a technical talk.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
 *Delivered January 21, 2015*

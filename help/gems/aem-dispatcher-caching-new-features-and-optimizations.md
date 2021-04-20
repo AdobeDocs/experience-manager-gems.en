@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Dispatcher Caching - New Features and Optimizations{#dispatcher-caching-new-features-and-optimizations}
 
+To maximize your AEM experience, it is important that you fine tune your AEM Dispatcher cache.  This session will teach you about the newest features in AEM dispatcher and some ways you can optimize your cache.  The session will cover new features added between versions 4.1.0 and 4.1.9.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
 *Delivered January 28, 2015*
@@ -17,11 +19,11 @@ targetaudience: target-audience advanced
 * Dominique Pfister, Senior Computer Scientist, Adobe
 * Andrew Khoury, CS Engineer, Adobe
 
-Presenter Slides - part 1
+**Presenter Slides - part 1**
 
 [Get File](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
 
-Presenter Slides - part 2
+**Presenter Slides - part 2**
 
 [Get File](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--

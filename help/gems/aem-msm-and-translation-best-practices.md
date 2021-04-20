@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # MSM and Translation: Best Practices {#msm-and-translation-best-practices}
 
+This webinar will examine the intersection of MSM and translation for multilingual websites. We’ll cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases. 
+
 **Presented by:**
 
 Christine Duran, Sr Translation Technology Group Manager, Adobe

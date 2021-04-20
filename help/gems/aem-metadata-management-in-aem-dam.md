@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Metadata Management in AEM DAM{#metadata-management-in-aem-dam}
 
+Learn how AEM DAM manages the metadata of assets. We will cover the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor which has been introduced in the latest DAM Feature Pack will be presented as well.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
 *Delivered November 20, 2013*

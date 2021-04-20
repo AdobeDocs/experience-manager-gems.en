@@ -8,6 +8,10 @@ targetaudience: target-audience advanced
 
 # AEM 6.0 Developer Mode{#aem-developer-mode}
 
+"David will introduce you to the Developer Mode, new in AEM 6. Marketing and customer added value: Ease customer application development by providing Debugging and Testing tools directly in AEM Authoring Demo Description: * Developer Mode is a bridge between authors and developer [Component Tree] * Developer Mode is a Debugging Helper [Errors Notifier] * Developer Mode is a Test Companion [Application Testing Tool] (Hobbes.js AEM Implementation)"
+
+David will introduce you to the Developer Mode, new in AEM 6. Marketing and customer added value: Ease customer application development by providing Debugging and Testing tools directly in AEM Authoring Demo Description: * Developer Mode is a bridge between authors and developer [Component Tree] * Developer Mode is a Debugging Helper [Errors Notifier] * Developer Mode is a Test Companion [Application Testing Tool] (Hobbes.js AEM Implementation)
+
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
 *Delivered July 16, 2014*
@@ -20,7 +24,7 @@ David Catalan, QE Developer, Adobe
 
 [Get File](assets/aem-6-developer-mode-07-16-14.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

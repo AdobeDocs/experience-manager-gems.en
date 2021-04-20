@@ -17,7 +17,8 @@ targetaudience: target-audience advanced
 
 Andrei Stefan Tuicu, Graduate diploma intern, Adobe
 
-**Additional note: ** 
+**Additional note:**
+ 
 Docker is not a supported Platform. What this means is that there is no support for running AEM inside Docker in production.But there are successful POCs and tests done with AEM inside Docker.So Docker is still in the evaluation phase and might be supported in future. But that is a PM decision.
 
 ## Related Links {#related-links}

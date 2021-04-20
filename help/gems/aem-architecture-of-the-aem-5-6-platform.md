@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Architecture of the AEM 5.6 Platform{#architecture-of-the-aem-platform}
 
+Presentation of the evolution of the architecture of the AEM Application Platform. Since the first release of Communiqué 1 until the most recent launch of AEM 5.6 the application underwent several massive changes to become the versatile and extensible application platform it is now.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
 *Delivered May 8, 2013*
@@ -20,7 +22,7 @@ Felix Meschberger, Principal Scientist, Adobe
 
 [Get File](assets/20130508-aem56-architecture.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/questionsanswers-aem56-architecture.pdf)
 

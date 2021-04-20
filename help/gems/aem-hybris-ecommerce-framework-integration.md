@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
 
+In this session we will be presenting our integration solution for hybris into CQ. We'll start with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we'll go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
 *Delivered May 13, 2013*

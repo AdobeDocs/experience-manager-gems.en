@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # CQ/AEM 5.6 Troubleshooting{#cq-aem-troubleshooting}
 
+In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
 *Delivered October 2, 2013*

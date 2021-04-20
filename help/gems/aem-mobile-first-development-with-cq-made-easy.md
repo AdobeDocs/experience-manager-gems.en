@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Mobile-First Development with CQ Made Easy{#mobile-first-development-with-cq-made-easy}
 
+This talk presents patterns for responsive design in CQ and explains how to provide a media-rich HTML5 mobile experience that performs on low-bandwidth connections. To demonstrate these patterns, we will work through the transformation of a CQ site from desktop only to mobile-first. We'll dive into how mobile-first design principles were used, adaptive images and progressive enhancement to create it, and we’ll discuss the pitfalls encountered along the way. The session is based on Bruce's talk during the CQ Conference in Basel, Switzerland (CQCON, 2013). 
+
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
 *Delivered September 18, 2013*

@@ -4,7 +4,7 @@ description: This is the article overview.
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 ---
-# Title
+# Upcoming GEM Sessions
 
 Welcome to the something something user guide.
 

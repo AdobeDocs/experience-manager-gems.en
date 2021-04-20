@@ -10,6 +10,8 @@ targetaudience: target-audience new;target-audience ongoing
 
 # Troubleshooting AEM Replication{#troubleshooting-aem-replication}
 
+Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
 *Delivered July 26, 2017*

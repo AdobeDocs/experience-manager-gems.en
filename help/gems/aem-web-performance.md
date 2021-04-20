@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM Web Performance{#aem-web-performance}
 
+Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead
+
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
 *Delivered June 1, 2016*

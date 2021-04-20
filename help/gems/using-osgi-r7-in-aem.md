@@ -8,12 +8,23 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Using OSGi R7 in AEM{#using-osgi-r-in-aem}
 
+The OSGi R7 release represents many significant new features and capabilities and provides an open standards-based approach for a number of modern valuable and simple-to-use technologies important to Java developers.  New features include (amongst others):
+
+* Declarative Services update
+* New Bundle Annotations
+* Push Streams and Promises
+* Converter
+* Http Whiteboard
+* Configurator and Configuration Admin
+* Java 9 support
+
+In this session, we will highlight and explain the most interesting additions in OSGi R7 with a focus on what can be used with AEM 6.4 already. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
 *Delivered 10/17/18*
 
-**Presented by:   
-**
+**Presented by:**
 
 * Karl Pauls, Computer Scientist, Adobe  
 * Carsten Ziegeler, Principal Scientist, Adobe

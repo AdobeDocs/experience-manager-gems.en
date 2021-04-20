@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Toughday2 - A new and improved stress testing and benchmarking tool{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 
+“Tough Day” was a testing tool that simulated daily loads in worst-case scenarios with all the operations going on at the same time. We’ve gathered the feedback given by our users throughout the years and decided to rewrite it to meet the demands. For your own purpose Toughday2 will be publicly available after the session. Please join us to see the results in a live demo and to talk about the changes.
+
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
 *Delivered June 21, 2017*

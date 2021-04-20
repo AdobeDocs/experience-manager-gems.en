@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM 6.3 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
+In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
 *Delivered October 25, 2017*

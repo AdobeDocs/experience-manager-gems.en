@@ -8,6 +8,14 @@ targetaudience: target-audience advanced
 
 # Inside ACS AEM Commons & Tools{#inside-acs-aem-commons-tools}
 
+In this session, Justin Edelson, Global Evangelist for AEM and co-project lead of ACS AEM Commons and ACS AEM Tools will provide some background on the goal and processes used by these open source projects for AEM and demo a few of the key features including: 
+
+* Dispatcher Flush Rules
+* Sitemap Generator
+* AEM Fiddle
+* Generic Lists
+* Typekit Cloud Service 
+
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 
 *Delivered August 26, 2015*

@@ -8,13 +8,17 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
+Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
+
 ## AEM Rich Text Editor (RTE) Deep Dive
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
 *Delivered 04/17/19*
 
-**Presented by:**Hanish Bansal, Computer Scientist, Adobe
+**Presented by:**
+
+Hanish Bansal, Computer Scientist, Adobe
 
 Presenter Slides, Date: 04/17/2019
 

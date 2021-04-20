@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Technical Overview of the AEM 6 Platform{#technical-overview-of-the-aem-platform}
 
+In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
 *Delivered June 11, 2014*

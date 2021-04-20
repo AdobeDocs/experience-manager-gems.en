@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Deep dive into AEM upgrade process{#deep-dive-into-aem-upgrade-process}
 
+This session describes the AEM upgrade mechanisms, which allow for upgrading AEM itself as well as custom applications and content. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading. We will talk about possible upgrade and sidegrade scenarios, share tips on how to make the process faster and show advanced features of the migration tools. After this session you’ll know how to: upgrade AEM, use crx2oak, oak-upgrade & other repository migration tool
+
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
 *Delivered October 14, 2015*

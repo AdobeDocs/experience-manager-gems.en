@@ -8,6 +8,14 @@ targetaudience: target-audience advanced
 
 # How to get the most out of your DAM Feature Pack{#how-to-get-the-most-out-of-your-dam-feature-pack}
 
+The DAM FP2 for AEM 5.6.1 is focused on leveraging the Creative Projects functionality to offer the AEM users a unique way of managing their assets sourcing. The session will cover the step-by-step working of a creative project workflow for:
+
+* Creating/Editing/Uploading a shot list
+* Uploading assets against the shot list
+* Reviewing and Approving the uploaded assets 
+
+The session will also demonstrate the ability of Task surface configuration, Custom Project workflow templates, Product hierarchy creation.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
 *Delivered March 5, 2014*

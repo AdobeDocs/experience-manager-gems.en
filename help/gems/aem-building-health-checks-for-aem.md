@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Building Health Checks for AEM{#building-health-checks-for-aem}
 
+Determining if an AEM instance is healthy is not a simple task. This session will give insight into the Health Reports section of the Operations Dashboard: a collection of out-of-the-box checks, based on our security and performance recommendations and developed using the Sling Health Check framework. You will find out how you can fix some of the commonly failing health checks, how you can check their results with external tools and how you can write your own, application-specific checks.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
 *Delivered July 12, 2017*

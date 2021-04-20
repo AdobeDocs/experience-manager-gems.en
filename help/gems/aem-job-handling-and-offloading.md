@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
 
+Job handling is the underlying infrastructure for features like replication and workflow processing. This is a technical introduction of the advanced job handling features. We will discuss the new discovery module alongside with the improved job processing API and the new features. Building on top of the job handling and discovery, the offloading framework focuses on distributing jobs among non-clustered instances. We will have a closer look into how offloading extends the distributed job handling. Then we look at how it's used for the current implementation of workflow offloading and how one can use it in its own project. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
 *Delivered July 24, 2013*

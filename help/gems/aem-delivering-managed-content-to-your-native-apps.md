@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Delivering Managed Content to your Native Apps{#delivering-managed-content-to-your-native-apps}
 
+While you may not be in a position to move completely to the use of web technologies and cross-platform development provided by PhoneGap Enterprise, it is still possible to leverage the power of AEM by adding web content directly into your existing native apps. This session will cover in detail how content created with AEM apps can then be integrated with an existing Android app. Once integrated into the native app the AEM content can be updated without any further native development being required and it can communicate with the rest of the native application.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
 *Delivered September 10, 2014*

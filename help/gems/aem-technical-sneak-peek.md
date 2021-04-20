@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Technical Sneak Peek{#technical-sneak-peek}
 
+Join Gabriel Walt and Justin Edelson for a peek into what we’ve been working on for the next generation of Adobe Experience Manager in a technical talk. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
 *Delivered April 13, 2016*

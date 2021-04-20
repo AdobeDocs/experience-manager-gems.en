@@ -8,6 +8,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM Core Components{#aem-core-components}
 
+Learn everything about the Core Components and their related features, about how they work and how they are changing the game. Get to know the strategies that allow you to reduce the number of components you need to create and maintain by an order of magnitude.
+
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
 *Delivered 12/5/18*

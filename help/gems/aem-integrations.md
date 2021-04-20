@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM Integrations - a solid foundation goes a long way{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
+While AEM work is pretty self-contained, we AT/AAM/AA consultants working with AEM need to collaborate with our AEM counterparts. This session gives a brief overview of AT/AAM/AA integrations using DTM, the things we look for, and why it all matters. If you ever wanted to know why people actually use AT/AAM/AA, or even AEM, this is your session.   AT = Adobe Target  AAM = Adobe Audience Manager  AA = Adobe Analytics  DTM = Dynamic Tag Management
+
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
 *Delivered September 27, 2017*

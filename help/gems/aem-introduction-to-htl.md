@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Introduction to HTL{#introduction-to-htl}
 
+HTL is a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns. Security measures such as XSS prevention are automatically applied. Another major advantage of HTL is that it is based purely on HTML5, thus allowing 3rd party agencies to focus on design related parts of a CQ/AEM project without CQ/AEM knowledge. HTL is not limited to Java environments, through the pluggable compiler interface it can be implemented on many different platforms such as node.js and php.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
 *Delivered June 25, 2014*
@@ -20,7 +22,7 @@ Gabriel Walt, Product Manager, Adobe
 
 [Get File](assets/sightly-component-development.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/introduction-to-sightly-q-as.pdf)
 

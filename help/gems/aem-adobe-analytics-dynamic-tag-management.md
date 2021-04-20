@@ -9,6 +9,8 @@ targetaudience: target-audience advanced
 
 # How to deploy Adobe Analytics on a local AEM instance by using the Dynamic Tag Management cloud service{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
+AEM 6 comes with a cloud service for Dynamic Tag Management (DTM), Adobe’s recommended way of deploying Adobe Analytics (and other solutions of the Marketing Cloud) on a website. Learn how to connect even a local AEM instance with the DTM service, and to send any desired usage data to Adobe Analytics.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
 *Delivered October 1, 2014*

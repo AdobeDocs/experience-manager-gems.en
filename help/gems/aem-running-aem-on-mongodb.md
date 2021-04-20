@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Running AEM on MongoDB{#running-aem-on-mongodb}
 
+This AEM Gem will detail how to run AEM on MongoDB in a production setting. We will present the options MongoDB has for deployment, highlight recommended deployment and explain the rationale for those recommendations.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
 *Delivered March 23, 2016*

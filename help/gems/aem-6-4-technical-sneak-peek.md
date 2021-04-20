@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Deep Dive into Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
+Experience Manager provides an agile solution to design, anticipate and deliver rapidly adaptable experiences across web, mobile and any end-point in the customer journey. Attend this session to preview key features and integrations from the upcoming release of Adobe Experience Manager 6.4. Agenda will cover: Overview of AEM 6.4 | Core Components 2 | Style System | Path changes due to separation of content from apps/product | Changes in Oak and Sling - incl. context sensitive configuration | Make Single Page Apps editable with focus on React 
+
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
 *Delivered March 14, 2018*

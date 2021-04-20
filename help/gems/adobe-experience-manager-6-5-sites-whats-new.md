@@ -8,6 +8,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Adobe Experience Manager 6.5 Sites - What's New{#adobe-experience-manager-sites-what-s-new}
 
+Don’t miss this sneak peek of what’s upcoming in AEM 6.5 Sites. Get an overview of the main platform changes that you must know, of what AEM has to offer around Headless CMS and Modern Web, as well as the features that will make your implementations more efficient and lean.
+
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
 *Delivered 03/06/19*

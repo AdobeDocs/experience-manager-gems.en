@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Dispatcher - New features and best practices{#dispatcher-new-features-and-best-practices}
 
+This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
+
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
 *Delivered November 22, 2017*

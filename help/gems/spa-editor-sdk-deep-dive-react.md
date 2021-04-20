@@ -8,6 +8,16 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # SPA Editor SDK Deep Dive - Part 1 - React {#spa-editor-sdk-deep-dive-part-react}
 
+Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor. In this session, you will have access to the following content:
+
+* Considerations and recommendations about the structure of projects
+* Review of all the layers that compose the architecture of a project
+* Insight into the role of AEM and SPA components
+* Structure and key JSON fields of the model object
+* Useful code snippets
+* Tour of the components provided by the SDK
+* Key implementation details
+
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
 *Delivered 10/31/18*

@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Introduction to ContextHub in AEM 6.4{#introduction-to-contexthub-in-aem}
 
+Presentation covers high level ContextHub architecture with some deeper dives on available generic stores, persistence layers, eventing and debugging. Learn about similarities and feature parity between ClientContext and ContextHub to ease migration to ContextHub.
+
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
 *Delivered 09/19/2018*

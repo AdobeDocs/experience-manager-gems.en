@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Managing AEM DataStore{#managing-aem-datastore}
 
+The session will provide an overview of the DataStore (DS) and details on configuration and maintenance of DS for various supported topologies in AEM. Also, covered are troubleshooting tips including for DS GC. 
+
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
 *Delivered October 11, 2017*

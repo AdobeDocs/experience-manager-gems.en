@@ -9,6 +9,10 @@ targetaudience: target-audience advanced
 
 # Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
+This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
+
+Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
 *Delivered October 5, 2016*

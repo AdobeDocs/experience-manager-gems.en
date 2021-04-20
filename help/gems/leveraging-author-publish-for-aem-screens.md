@@ -8,6 +8,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
+In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
+
 **Presented by:**Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)

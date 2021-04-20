@@ -8,6 +8,13 @@ targetaudience: target-audience advanced
 
 # Technical Deep Dive into the AEM 6 Platform{#technical-deep-dive-into-the-aem-platform}
 
+AEM6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: 
+
+* Content migration
+* Backwards compatibility
+* Key deployment scenarios
+* Custom search indexes
+
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
 *Delivered June 18, 2014*

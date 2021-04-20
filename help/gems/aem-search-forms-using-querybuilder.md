@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Search forms made easy with the AEM querybuilder{#search-forms-made-easy-with-the-aem-querybuilder}
 
+Most developers have come across the AEM querybuilder as a high-level query language used mostly in user interfaces, but want to know more about it to get the best out of it. This session will explain the principles behind the querybuilder compared to other query languages on the JCR stack, show how you can use it to build authorable search forms very easily, how to build efficient searches, how to debug queries and how you can extend it.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19139/?quality=9)
 
 *Presented February 22, 2017*

@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
+With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
+
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
 *Delivered September 14, 2016*

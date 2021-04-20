@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Maintaining Open Source While Maintaining Your Sanity{#maintaining-open-source-while-maintaining-your-sanity}
 
+Maintaining open source projects can be hard. Successful open source projects can take up a lot of your time and often you end up feeling guilty because you feel you are not spending enough time working on it. You are not alone! I’ve been an open source contributor for a very long time and a core maintainer of Apache Cordova for over 8 years. I’ve learned a number of things that can help you stay on top of your project without the guilty feelings.
+
 >[!VIDEO](https://video.tv.adobe.com/v/23713/?quality=9)
 
 *Delivered 09/12/2018*

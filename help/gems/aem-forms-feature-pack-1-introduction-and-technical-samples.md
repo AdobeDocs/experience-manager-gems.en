@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM Forms Feature Pack 1 introduction and technical samples{#aem-forms-feature-pack-introduction-and-technical-samples}
 
+AEM Forms Feature Pack 1 is the upgrade path for LiveCycle deployments and extends the reach of those implementations to include all the features of AEM Forms plus more. In addition an introduction to customer driven samples made public.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
 *Delivered February 4, 2015*
@@ -15,7 +17,6 @@ targetaudience: target-audience advanced
 **Presented by:**
 
 * Steve Monroe, Senior Manager Enterprise Solutions, Adobe
-
 * Girish Bedekar, LiveCycle Solution Evangelist, Adobe
 
 **Presenter Slides**

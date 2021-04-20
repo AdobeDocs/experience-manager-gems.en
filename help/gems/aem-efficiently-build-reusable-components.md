@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Efficiently Build Reusable Components{#efficiently-build-reusable-components}
 
+With the Brackets and Eclipse IDE plugins, the HTL template language, and the new foundation components, Adobe Experience Manager 6.0 brings a new spin to your component development workflow. Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them. This is a follow up session of "Introduction to HTL", while we recommend attending both sessions there is no requirement to attend both.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
 *Delivered July 2, 2014*
@@ -20,7 +22,7 @@ Gabriel Walt, Product Manager, Adobe
 
 [Get File](assets/efficiently-build-reusable-components.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/efficiently-build-reusable-components-q-a.pdf)
 

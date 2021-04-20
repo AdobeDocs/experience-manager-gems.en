@@ -8,6 +8,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM 6.5 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
+This session will present current AEM translation capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites and, use language copies, live copies and MSM. The session also covers how to achieve easier, faster and more manageable content translation using the advance features.
+
 **Presented by:**
 
 * Ankur Sial, Computer Scientist, Adobe

@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # AEM 6 Oak: MongoMK and Queries{#aem-oak-mongomk-and-queries}
 
+We describe the query engine of Oak and how it compares to Jackrabbit 2.x. The session will give pointers on how to analyze query performance and manage custom indexes. In the second part we will talk about MongoMK with a focus on the consistency guarantees provided by the new cluster implementation in AEM.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19402/?quality=9)
 
 *Delivered November 19, 2014*
@@ -21,7 +23,7 @@ targetaudience: target-audience advanced
 
 [Get File](assets/aem-6-oak-mongomk-and-queries.pdf)
 
-Session Questions and Answers
+**Session Questions and Answers**
 
 [Get File](assets/q-a-11-19-14-gem-session-oak.pdf)
 

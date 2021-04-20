@@ -8,6 +8,8 @@ targetaudience: target-audience advanced
 
 # Introduction to AEM Screens{#introduction-to-aem-screens}
 
+AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
 *Delivered November 16, 2016*

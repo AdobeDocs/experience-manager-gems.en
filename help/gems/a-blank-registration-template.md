@@ -9,6 +9,8 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # A Blank registration template{#a-blank-registration-template}
 
+This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4.
+
 [7/19/2017 - AEM Indexing and JCR Query](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-indexing-jcr-query.html)
 
 ## Wednesday, August 22, 2018 | 8:00 AM to 9:00 AM PDT {#wednesday-august-am-to-am-pdt}
