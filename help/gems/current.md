@@ -8,7 +8,8 @@ exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 
 Welcome to the something something user guide.
 
-MORE...
+MORE...to come
+
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
