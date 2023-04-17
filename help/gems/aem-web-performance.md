@@ -1,6 +1,6 @@
 ---
 title: AEM Web Performance
-description: "Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead"
+description: "Delivering complex web experiences fast is challenging. In this talk, Joel sheds light on some of the more common pitfalls. It includes theory, examples, best practices, and demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead"
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
@@ -8,7 +8,7 @@ targetaudience: target-audience advanced
 
 # AEM Web Performance{#aem-web-performance}
 
-Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead
+Delivering complex web experiences fast is challenging. In this talk, Joel sheds light on some of the more common pitfalls. It includes theory, examples, best practices, and demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
@@ -28,30 +28,28 @@ Apache:
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
 Web Standards:  
-[https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)  
-[https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
+[https://html.spec.whatwg.org/multipage/links.html#link-type-preload](https://html.spec.whatwg.org/multipage/links.html#link-type-preload)  
+[https://html.spec.whatwg.org/#linkTypes](https://html.spec.whatwg.org/#linkTypes)
 
 AEM:  
-[https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html)  
-[https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)  
-[https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)  
-[https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html](https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html)
+[https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)  
+[https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)  
+[https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)  
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=en)
 
 AEM Components:  
-[https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)  
-[https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
+[https://github.com/adobe/aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components)  
+[https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform/index.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform/index.html)
 
 Third-party:  
-[https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)  
-[http://www.appelsiini.net/projects/lazyload](http://www.appelsiini.net/projects/lazyload)
+[https://amp.dev/documentation/components/amp-img?referrer=ampproject.org](https://amp.dev/documentation/components/amp-img?referrer=ampproject.org)  
+[https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
 JavaScript Performance:  
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)  
-[https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+[https://developer.chrome.com/docs/devtools/](https://developer.chrome.com/docs/devtools/)
 
 Profiler:  
-[https://visualvm.java.net/](https://visualvm.java.net/)
+[https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/profiler.html](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/profiler.html)
 
-<!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
--->
+[Get back to the Overview](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en)
